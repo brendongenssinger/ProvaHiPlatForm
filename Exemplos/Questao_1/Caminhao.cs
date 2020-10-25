@@ -4,17 +4,17 @@ namespace ProvaHiPlatForm.Exemplos.Questao_1
     {
         public void Acelerar()
         {
-            throw new System.NotImplementedException();
+            System.Console.WriteLine("Acelerando o caminhão.");
         }
 
         public void Freiar()
         {
-            throw new System.NotImplementedException();
+            System.Console.WriteLine("Freiando o caminhão.");
         }
 
         public void Parar()
         {
-            throw new System.NotImplementedException();
+            System.Console.WriteLine("Parando caminhão.");
         }
     }
 }
